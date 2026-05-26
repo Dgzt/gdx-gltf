@@ -1,6 +1,7 @@
 # Changes history
 
 * [BREAKING CHANGE] Updated libGDX to 1.14.1. You can't use older libGDX with this version.
+* [BREAKING CHANGE] Min java version is 1.8
 
 ### 2.3.0
 
