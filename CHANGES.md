@@ -1,5 +1,7 @@
 # Changes history
 
+* [BREAKING CHANGE] Updated libGDX to 1.14.1. You can't use older libGDX with this version.
+
 ### 2.3.0
 
 * Added texture transform feature to depth shader to have consistent shadows.
